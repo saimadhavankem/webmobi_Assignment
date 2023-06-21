@@ -1,0 +1,29 @@
+.nav-container {
+  height: 65px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 0px;
+  box-shadow: 0px 15px 10px -15px #000000;
+
+  align-items: center;
+}
+.nav-heading {
+  font-family: 'Roboto';
+  font-size: 21px;
+  color: #054bc0;
+  margin-left: 35px;
+}
+.right-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 35px;
+}
+.nav-para {
+  margin-left: 18px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1bb2f3;
+}

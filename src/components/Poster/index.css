@@ -1,0 +1,43 @@
+.poster-container {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #97e6f7;
+}
+.middle-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.poster-heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #1f1f1f;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.poster-para {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  color: #5b6468;
+  margin-top: 1px;
+  margin-bottom: 2px;
+}
+.image-size {
+  height: 300px;
+  margin-top: 1px;
+}
+.right-logo {
+  height: 400px;
+}
+.left-logo {
+  height: 300px;
+  margin-top: 50px;
+}
